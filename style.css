@@ -55,3 +55,10 @@ input {
   outline: none;
   border: none;
 }
+
+button {
+  width: 120px;
+  padding: .5rem;
+  outline: none;
+  border: none;
+}
